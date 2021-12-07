@@ -2,7 +2,12 @@
 
 #### copy paste the following in package.json
 "echarts": "^5.2.2",
+
 "ngx-echarts": "^7.0.0",
+
+then run 
+
+npm i
 
 
 #### Import the library in app.module.ts
